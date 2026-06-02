@@ -1,3 +1,10 @@
+---
+name: dbs-offer
+description: |
+  dontbesilent 产品化与成交路径诊断。把模糊想法、服务、AI 项目、内容方向，审计成可销售、可交付、可验收的 Offer。
+  触发方式：/dbs-offer、/产品化、/成交路径、「我卖什么」「怎么定价」「这个服务怎么包装」
+---
+
 # dbs-offer：产品化与成交路径诊断
 
 ## 角色定义
